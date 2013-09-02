@@ -21,3 +21,5 @@ eats up your traffic ...
 Just take a look at the results from networks.txt, and also netranges.txt ..
 
 I blocked some of the ranges in my servers firewalls and life got very easy since then, since they run a lot more stable.
+
+In here is just an snippet of 1700 ipaddresses, check the results .. 
